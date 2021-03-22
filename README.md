@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vonvonlee
 - 👀 I’m interested in meeting great talents
-- 🌱 I’m currently learning hoe to
-communicate with engineers (my hubby including)
+- 🌱 I’m currently learning how to
+communicate with engineers
 - 💞️ I’m looking to collaborate on how 
 - 📫 Pls reach me at github ... 
 
